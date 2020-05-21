@@ -1,0 +1,11 @@
+environments:
+  - name: prod
+    endpoints:
+      production:
+        url: https://localhost:9444/am/sample/pizzashack/v1/api/
+        config:
+          retryTimeOut: $RETRY      
+      sandbox:
+        url: https://localhost:9444/am/sample/pizzashack/v1/api/
+        config:
+          retryTimeOut: $RETRY     
