@@ -3,7 +3,7 @@ id:
   apiName: PizzaShack
   version: 1.0.0
 uuid: 0ea135c7-e48e-49ce-aba4-f3a35cdf4052
-description: Simple api for pizza shack...
+description: Simple api for pizza shack.....
 type: HTTP
 context: /pizzashack/1.0.0
 contextTemplate: /pizzashack/{version}
